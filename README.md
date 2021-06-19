@@ -4,9 +4,9 @@
 ## You can find useful basics codebase in this repo.
 
 <p float="left">
-  <img src="https://github.com/martinoyovo/hack_app/blob/main/screenshots/home_page.jpg" width="150" />
-  <img src="https://github.com/martinoyovo/hack_app/blob/main/screenshots/doctor_details.jpg" width="150" />
-  <img src="https://github.com/martinoyovo/hack_app/blob/main/screenshots/group_chat.jpg" width="150" />
+  <img src="https://github.com/martinoyovo/eco-ambassadeur/blob/main/screenshots/1.jpg" width="150" />
+  <img src="https://github.com/martinoyovo/eco-ambassadeur/blob/main/screenshots/2.jpg" width="150" />
+  <img src="https://github.com/martinoyovo/eco-ambassadeur/blob/main/screenshots/3.jpg" width="150" />
 </p>
 
 
